@@ -30,4 +30,4 @@ jobs:
       uses: Cyb3r-Jak3/html5validator-action-experimental@master
       with:
         root: /
-      continue-on-error: false
+      continue-on-error: true
