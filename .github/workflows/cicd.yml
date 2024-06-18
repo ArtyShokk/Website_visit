@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  notify:
     name: Уведомление и валидация
     runs-on: ubuntu-latest
     steps:
